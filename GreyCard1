@@ -1,0 +1,83 @@
+{
+   "units": {
+     "Rebel": {
+       "Operative": [
+         {
+          "name": "Grey",
+          "title": "The Outcast",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158103301241/9178A49905216501677156B6B19D05D89BEBAC9E/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 140,
+          "speed": 2,
+          "upgrades": {
+            "Force": 3,
+            "Gear": 1,
+            "Training": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886435784/9A83A99579A78DF53A23E3FFB79C07798E4F3C5C/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886427771/60D6CA1D97D822A2222E4FAF614931265B7B0AF2/"
+            }
+          ]
+        }
+      ]
+     }
+  }
+  "upgrades": {
+    "Armament": [
+      {
+        "name": "Elite Wrist Mounted Flamethrower",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640412575/1F3B56925DC71E5FAFDD405CF117B72CC0DB3B42/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"],
+            "rank": ["Commander", "Operative"]
+          }
+        }
+      },
+      {
+        "name": "Wrist Rocket",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640428446/AE6DB75F1A3643AF7DCB7CA1BA8DAFF87E7A5C8A/",
+        "points": 6,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Whistling Birds",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640411728/A3BCBA7C1B49EE5B996A55A8FC6CB581A9EAA96C/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"],
+            "rank": ["Commander", "Operative"]
+          }
+        }
+      },
+      {
+        "name": "Wrist Mounted Blasters",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640413937/745B5BEAD23640A8222A54287029ACF70F9A81EE/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+      {
+        "name": "Wrist Mounted Flamethrower",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640416270/08971192288A83DD208F4D91D02703E094090133/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "type": ["Mandalorian Trooper"]
+          }
+        }
+      },
+}
+ 
