@@ -1,0 +1,29 @@
+{
+   "units": {
+     "Rebel": {
+       "Operative": [
+         {
+          "name": "Gup",
+          "title": "Dangerous Mercenary",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158103107807/48302C744B4879196C94E9BF209467D4CEB9F2F7/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 140,
+          "speed": 2,
+          "upgrades": {
+            "Gear": 2,
+            "Training": 2,
+            "Grenade": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697128192156760/0799D47F8ABA442104B92441C2EE558246DD447B/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697128192156907/44D809B717035663BCC53BBF8B6C34E47F27D953/"
+            }
+          ]
+        }
+      ]
+     }
+  }
+}
+ 
