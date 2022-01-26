@@ -1,0 +1,27 @@
+{
+   "units": {
+     "Rebel": {
+       "Support": [
+         {
+          "name": "Keith Jones",
+          "title": "Ace Pilot",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094671509/8374AE29F09726EC4385A91B23C0EE648257561E/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 80,
+          "speed": 2,
+          "upgrades": {
+            "Personnel": 1,
+            "Comms": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540669649/C440F429AB1182944D329D0C16C3402DB731CA87/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540669835/B4E395AA781518EAC4FBFFCB27BAA646201F411C/"
+            }
+          ]
+        }
+      ]
+     }
+  }
+}
