@@ -12,6 +12,7 @@
           "speed": 2,
           "upgrades": {
             "Personnel": 1,
+            "Item": 2,
             "Comms": 2
           },
           "minis": [
