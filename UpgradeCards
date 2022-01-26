@@ -1,0 +1,103 @@
+{
+  "upgrades": {
+       "Armament": [
+           {
+       "name": "Elite Wrist Mounted Flamethrower",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640412575/1F3B56925DC71E5FAFDD405CF117B72CC0DB3B42/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"],
+           "rank": ["Commander", "Operative"]
+         }
+       }
+     },
+     {
+       "name": "Wrist Rocket",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640428446/AE6DB75F1A3643AF7DCB7CA1BA8DAFF87E7A5C8A/",
+       "points": 6,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"]
+         }
+       }
+     },
+     {
+       "name": "Whistling Birds",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640411728/A3BCBA7C1B49EE5B996A55A8FC6CB581A9EAA96C/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"],
+           "rank": ["Commander", "Operative"]
+         }
+       }
+     },
+     {
+       "name": "Grey's Sniper Rifle",
+       "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158104043543/E5EE7AFA8CC86A858665D4747C465295B040F274/",
+       "points": 20,
+       "restrictions": {
+         "include": {
+           "unit": ["Grey"]
+           }
+         }
+       },
+     {
+       "name": "Wrist Mounted Blasters",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640413937/745B5BEAD23640A8222A54287029ACF70F9A81EE/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"]
+         }
+       }
+     },
+     {
+       "name": "Wrist Mounted Flamethrower",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640416270/08971192288A83DD208F4D91D02703E094090133/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"]
+          }
+      }
+      }
+      ],
+        "Personnel": [
+          { "name": "R7-C3",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094735738/B5EBE6A105C3B82AC269A7F742D763325E8A63A8/",
+            "mini": {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456806966/EFBA4A71BFE748A2868C14B82DA3A7B0D559874A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228032306302/F5CA6FC54A8625E261F123D73792DE36D74E1686/"
+            },
+            "points": 80,
+            "restrictions": {
+              "include": {
+                "unit": ["Keith Jones"]
+              }
+            }
+          }
+      ],
+      "Item": [
+        {  "name": "Kolto Pack",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094755719/12C5D37189B1373C9DBD8DF0ABAFB99605924CAF/",
+          "points": 0,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        },
+        {  "name": "Tinkers Spark",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094757548/06D5B79918C08602CFD7DFC484AF66B0AFD5C5F2/",
+          "points": 0,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        }
+    ]
+  }
+}
