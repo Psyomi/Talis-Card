@@ -69,6 +69,44 @@
             }
           }
       ],
+      "Force": [
+        {
+          "name": "Acolyte Force Lightning",
+          "displayName": "Force Lightning",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278090576/86604BC87F9AB158776F63811C23AB3AE058722A/",
+          "points": 5,
+          "restrictions": {
+            "include": {
+              "faction": ["Sith Empire"]
+            }
+          }
+        },
+        {
+          "name": "Chain Lightning",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278091219/1C7C89C5537F9B248294B44DADC5F24D181892C2/",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "faction": ["Sith Empire"]
+            }
+          }
+        },
+        {
+          "name": "Force Dash",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747371109/7290AD045A9201DA40F367CAD1FF04C1615B9851/",
+          "points": 9
+        },
+        {
+          "name": "Force Lightning",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747371606/231C69EF773D74B95CCC5EB34F1EB96C1119FA98/",
+          "points": 12,
+          "restrictions": {
+            "include": {
+              "alignment": ["Dark"]
+            }
+          }
+        }
+    ],
       "Item": [
         {  "name": "Kolto Pack",
           "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094755719/12C5D37189B1373C9DBD8DF0ABAFB99605924CAF/",
