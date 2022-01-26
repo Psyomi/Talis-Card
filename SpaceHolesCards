@@ -1,5 +1,6 @@
 {
-"First Order": {
+   "units": {
+     "Rebel": {
   "Commander": [
     {
       "name": "Tali",
@@ -108,3 +109,5 @@
   ]
 }
 }
+}
+
