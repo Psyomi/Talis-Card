@@ -34,16 +34,6 @@
        }
      },
      {
-       "name": "Grey's Sniper Rifle",
-       "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158104043543/E5EE7AFA8CC86A858665D4747C465295B040F274/",
-       "points": 20,
-       "restrictions": {
-         "include": {
-           "unit": ["Grey"]
-           }
-         }
-       },
-     {
        "name": "Wrist Mounted Blasters",
        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640413937/745B5BEAD23640A8222A54287029ACF70F9A81EE/",
        "points": 10,
@@ -89,6 +79,16 @@
             }
           }
         },
+          {
+       "name": "Grey's Sniper Rifle",
+       "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158104043543/E5EE7AFA8CC86A858665D4747C465295B040F274/",
+       "points": 20,
+       "restrictions": {
+         "include": {
+           "unit": ["Grey"]
+           }
+         }
+       },
         {  "name": "Tinkers Spark",
           "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094757548/06D5B79918C08602CFD7DFC484AF66B0AFD5C5F2/",
           "points": 0,
