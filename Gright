@@ -1,0 +1,28 @@
+{
+   "units": {
+     "Rebel": {
+       "Operative": [
+         {
+          "name": "Gright Oakenshield",
+          "title": "Dormer ISB Operative",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158102231687/298B49ACEF674B8D5F06C2A63E6BADB7CA5231D4/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 2,
+          "upgrades": {
+            "Force": 3,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+            }
+          ]
+        }
+      ]
+     }
+  }
+}
