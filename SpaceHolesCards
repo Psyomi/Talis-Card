@@ -66,6 +66,47 @@
       ]
     },
     {
+          "name": "Bluey",
+          "title": "Dangerous Mercenary",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703097279719/07E5022542483F097D1A2565E5C131DDA5C8E04F/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 140,
+          "speed": 2,
+          "upgrades": {
+            "Gear": 2,
+            "Training": 2,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697601906780896/650CF3405CD4106C46B9CB7F0B8C3884B62CD278/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697601906781011/E61558EE4DCDF12D33E98940751D940381181C93/"
+            }
+          ]
+        },
+         {
+          "name": "Mirr",
+          "title": "The Blue Star Nova",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703097259137/05103612A0082A87D5785C16D57D5C40C7D8103E/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 100,
+          "speed": 2,
+          "upgrades": {
+            "Gear": 1,
+            "Training": 1,
+            "Force": 1,
+            "Comms": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027325137554369094/426567AD530CBB53A36B4DA286606A8028036940/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664190500251/60F46C12E0D02DE01D36B03BDF1E8ECAFD604F87/"
+            }
+          ]
+        },
+    {
       "name": "Gup",
       "title": "Dangerous Mercenary",
       "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158103107807/48302C744B4879196C94E9BF209467D4CEB9F2F7/",
