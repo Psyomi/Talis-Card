@@ -149,8 +149,9 @@
      ]
    }
  ]
+}
 },
-  "upgrades": {
+"upgrades": {
        "Armament": [
            {
        "name": "Elite Wrist Mounted Flamethrower",
@@ -285,4 +286,5 @@
     ]
   }
 }
-}
+
+
