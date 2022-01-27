@@ -1,0 +1,288 @@
+{
+  "units": {
+    "Rebel": {
+ "Commander": [
+   {
+     "name": "Tali",
+         "title": "Forgotten Jedi",
+         "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158102231687/298B49ACEF674B8D5F06C2A63E6BADB7CA5231D4/",
+         "size": "small",
+         "type": "Trooper",
+         "points": 150,
+         "speed": 2,
+         "upgrades": {
+           "Force": 3,
+           "Command": 1,
+           "Training": 1
+         },
+         "minis": [
+           {
+             "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925013057/F62D7D1921B435B28DDB56BD129BB39D1FB2C2FD/",
+             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324712401180346/5DD131A4135CF4C90A2D42D264F3FAB332155AB3/"
+       }
+     ]
+   }
+ ],
+ "Operative": [
+   {
+     "name": "Grey",
+     "title": "The Outcast",
+     "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158103301241/9178A49905216501677156B6B19D05D89BEBAC9E/",
+     "size": "small",
+     "type": "Mandalorian Trooper",
+     "points": 140,
+     "speed": 2,
+     "upgrades": {
+       "Armament": 2,
+       "Gear": 1,
+       "Item": 1,
+       "Training": 2
+     },
+     "minis": [
+       {
+         "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886435784/9A83A99579A78DF53A23E3FFB79C07798E4F3C5C/",
+         "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886427771/60D6CA1D97D822A2222E4FAF614931265B7B0AF2/"
+       }
+     ]
+   },
+   {
+     "name": "Gright Oakenshield",
+     "title": "Former ISB Operative",
+     "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094811937/9FDE2CD29C2131353354188ECE0DB894E3705D71/",
+     "size": "small",
+     "type": "Trooper",
+     "points": 180,
+     "speed": 2,
+     "upgrades": {
+       "Training": 2,
+       "Gear": 2,
+       "Grenades": 2
+     },
+     "minis": [
+       {
+         "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+         "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+       }
+     ]
+   },
+   {
+         "name": "Bluey",
+         "title": "Dangerous Mercenary",
+         "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703097279719/07E5022542483F097D1A2565E5C131DDA5C8E04F/",
+         "size": "small",
+         "type": "Trooper",
+         "points": 140,
+         "speed": 2,
+         "upgrades": {
+           "Gear": 2,
+           "Training": 2,
+           "Grenades": 1
+         },
+         "minis": [
+           {
+             "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697601906780896/650CF3405CD4106C46B9CB7F0B8C3884B62CD278/",
+             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697601906781011/E61558EE4DCDF12D33E98940751D940381181C93/"
+           }
+         ]
+       },
+        {
+         "name": "Mirr",
+         "title": "The Blue Star Nova",
+         "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703097259137/05103612A0082A87D5785C16D57D5C40C7D8103E/",
+         "size": "small",
+         "type": "Trooper",
+         "points": 100,
+         "speed": 2,
+         "upgrades": {
+           "Gear": 1,
+           "Training": 1,
+           "Force": 1,
+           "Comms": 2
+         },
+         "minis": [
+           {
+             "mesh": "http://cloud-3.steamusercontent.com/ugc/1027325137554369094/426567AD530CBB53A36B4DA286606A8028036940/",
+             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664190500251/60F46C12E0D02DE01D36B03BDF1E8ECAFD604F87/"
+           }
+         ]
+       },
+   {
+     "name": "Gup",
+     "title": "Dangerous Mercenary",
+     "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158103107807/48302C744B4879196C94E9BF209467D4CEB9F2F7/",
+     "size": "small",
+     "type": "Trooper",
+     "points": 140,
+     "speed": 2,
+     "upgrades": {
+       "Gear": 2,
+       "Training": 2,
+       "Grenades": 1
+     },
+     "minis": [
+       {
+         "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697128192156760/0799D47F8ABA442104B92441C2EE558246DD447B/",
+         "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697128192156907/44D809B717035663BCC53BBF8B6C34E47F27D953/"
+       }
+     ]
+   }
+ ],
+ "Support": [
+   {
+     "name": "Keith Jones",
+         "title": "Ace Pilot",
+         "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094671509/8374AE29F09726EC4385A91B23C0EE648257561E/",
+         "size": "small",
+         "type": "Trooper",
+         "points": 80,
+         "speed": 2,
+         "upgrades": {
+           "Personnel": 1,
+           "Item": 2,
+           "Comms": 2
+         },
+         "minis": [
+           {
+             "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540669649/C440F429AB1182944D329D0C16C3402DB731CA87/",
+             "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540669835/B4E395AA781518EAC4FBFFCB27BAA646201F411C/"
+       }
+     ]
+   }
+ ]
+},
+  "upgrades": {
+       "Armament": [
+           {
+       "name": "Elite Wrist Mounted Flamethrower",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640412575/1F3B56925DC71E5FAFDD405CF117B72CC0DB3B42/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"],
+           "rank": ["Commander", "Operative"]
+         }
+       }
+     },
+     {
+       "name": "Wrist Rocket",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640428446/AE6DB75F1A3643AF7DCB7CA1BA8DAFF87E7A5C8A/",
+       "points": 6,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"]
+         }
+       }
+     },
+     {
+       "name": "Whistling Birds",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640411728/A3BCBA7C1B49EE5B996A55A8FC6CB581A9EAA96C/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"],
+           "rank": ["Commander", "Operative"]
+         }
+       }
+     },
+     {
+       "name": "Wrist Mounted Blasters",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640413937/745B5BEAD23640A8222A54287029ACF70F9A81EE/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"]
+         }
+       }
+     },
+     {
+       "name": "Wrist Mounted Flamethrower",
+       "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640416270/08971192288A83DD208F4D91D02703E094090133/",
+       "points": 10,
+       "restrictions": {
+         "include": {
+           "type": ["Mandalorian Trooper"]
+          }
+      }
+      }
+      ],
+        "Personnel": [
+          { "name": "R7-C3",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094735738/B5EBE6A105C3B82AC269A7F742D763325E8A63A8/",
+            "mini": {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456806966/EFBA4A71BFE748A2868C14B82DA3A7B0D559874A/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228032306302/F5CA6FC54A8625E261F123D73792DE36D74E1686/"
+            },
+            "points": 80,
+            "restrictions": {
+              "include": {
+                "unit": ["Keith Jones"]
+              }
+            }
+          }
+      ],
+      "Force": [
+        {
+          "name": "Acolyte Force Lightning",
+          "displayName": "Force Lightning",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278090576/86604BC87F9AB158776F63811C23AB3AE058722A/",
+          "points": 5,
+          "restrictions": {
+            "include": {
+              "unit": ["Mirr"]
+            }
+          }
+        },
+        {
+          "name": "Chain Lightning",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278091219/1C7C89C5537F9B248294B44DADC5F24D181892C2/",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Mirr"]
+            }
+          }
+        },
+        {
+          "name": "Force Lightning",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747371606/231C69EF773D74B95CCC5EB34F1EB96C1119FA98/",
+          "points": 12,
+          "restrictions": {
+            "include": {
+              "unit": ["Mirr"]
+            }
+          }
+        }
+    ],
+      "Item": [
+        {  "name": "Kolto Pack",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094755719/12C5D37189B1373C9DBD8DF0ABAFB99605924CAF/",
+          "points": 0,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        },
+          {
+       "name": "Grey's Sniper Rifle",
+       "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655158104043543/E5EE7AFA8CC86A858665D4747C465295B040F274/",
+       "points": 20,
+       "restrictions": {
+         "include": {
+           "unit": ["Grey"]
+           }
+         }
+       },
+        {  "name": "Tinkers Spark",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703094757548/06D5B79918C08602CFD7DFC484AF66B0AFD5C5F2/",
+          "points": 0,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        }
+    ]
+  }
+}
+}
