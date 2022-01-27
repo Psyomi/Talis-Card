@@ -145,10 +145,10 @@
              {
                "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540669649/C440F429AB1182944D329D0C16C3402DB731CA87/",
                "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540669835/B4E395AA781518EAC4FBFFCB27BAA646201F411C/"
-         }
-       ]
-     }
-   ]
+            }
+        ]
+      }
+    ]
   },
   "Republic": {
     "Commander": {
@@ -329,3 +329,6 @@
       ]
     }
 }
+  
+  
+  
