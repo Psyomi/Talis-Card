@@ -145,13 +145,14 @@
              {
                "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540669649/C440F429AB1182944D329D0C16C3402DB731CA87/",
                "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540669835/B4E395AA781518EAC4FBFFCB27BAA646201F411C/"
-            }
-        ]
       }
     ]
-  },
-  "Republic": {
-    "Commander": {
+  }
+]
+},
+"Republic": {
+    "Commander": [
+    {
         "name": "Waters",
         "title": "Leader of Glacier Squad",
         "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747447768/91A80BEC147782188809554C9E3E1C89E38D0A8C/",
@@ -172,6 +173,7 @@
           }
         ]
       }
+    ]
 }
 },
   "upgrades": {
