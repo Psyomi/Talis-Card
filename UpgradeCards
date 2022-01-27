@@ -77,7 +77,7 @@
           "points": 5,
           "restrictions": {
             "include": {
-              "unit": ["Tali"]
+              "unit": ["Mirr"]
             }
           }
         },
@@ -87,14 +87,9 @@
           "points": 10,
           "restrictions": {
             "include": {
-              "unit": ["Tali"]
+              "unit": ["Mirr"]
             }
           }
-        },
-        {
-          "name": "Force Dash",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747371109/7290AD045A9201DA40F367CAD1FF04C1615B9851/",
-          "points": 9
         },
         {
           "name": "Force Lightning",
@@ -102,7 +97,7 @@
           "points": 12,
           "restrictions": {
             "include": {
-              "unit": ["Tali"]
+              "unit": ["Mirr"]
             }
           }
         }
