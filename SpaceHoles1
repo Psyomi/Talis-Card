@@ -155,7 +155,7 @@
     {
         "name": "Waters",
         "title": "Leader of Glacier Squad",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747447768/91A80BEC147782188809554C9E3E1C89E38D0A8C/",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703099372045/CB0656ADCB0E53BBE56D1E3F0249A73878A114BE/",
         "size": "small",
         "type": "Clone Trooper",
         "points": 150,
@@ -163,7 +163,7 @@
         "upgrades": {
           "Item": 2,
           "Command": 2,
-          "Ordinance": 1,
+          "Ordnance": 1,
           "Training": 1
         },
         "minis": [
