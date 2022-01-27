@@ -149,31 +149,31 @@
        ]
      }
    ]
-  }
+  },
+  "Republic": {
+    "Commander": {
+        "name": "Waters",
+        "title": "Leader of Glacier Squad",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747447768/91A80BEC147782188809554C9E3E1C89E38D0A8C/",
+        "size": "small",
+        "type": "Clone Trooper",
+        "points": 150,
+        "speed": 2,
+        "upgrades": {
+          "Item": 2,
+          "Command": 2,
+          "Ordinance": 1,
+          "Training": 1
+        },
+        "minis": [
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+            "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1834655703099390314/9D5FA0300EB577DBCFA8060FD57EE1FC2FAD6C62/"
+          }
+        ]
+      }
+}
 },
-"Republic": {
-  "Commander": {
-      "name": "Waters",
-      "title": "Leader of Glacier Squad",
-      "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747447768/91A80BEC147782188809554C9E3E1C89E38D0A8C/",
-      "size": "small",
-      "type": "Clone Trooper",
-      "points": 150,
-      "speed": 2,
-      "upgrades": {
-        "Item": 2,
-        "Command": 2,
-        "Ordinance": 1,
-        "Training": 1
-      },
-      "minis": [
-        {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
-          "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1834655703099390314/9D5FA0300EB577DBCFA8060FD57EE1FC2FAD6C62/"
-        }
-      ]
-    }
-    },
   "upgrades": {
          "Armament": [
              {
@@ -328,4 +328,4 @@
           }
       ]
     }
-  }
+}
