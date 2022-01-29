@@ -299,6 +299,16 @@
               }
             }
           },
+             {
+            "name": "Mirr's Zygerian Blaster",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968517109280/3FA2ABDE28A9126C6403B062A243EB58A64D6D6D/",
+            "points": 20,
+            "restrictions": {
+              "include": {
+                "unit": ["Mirr"]
+              }
+            }
+          },
           {
             "name": "DC-17m Sniper Rifle Config",
             "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747571113/0AA95599A43D23EDBDA63F1835698A1CBAC6D746/",
