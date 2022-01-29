@@ -96,6 +96,7 @@
            "upgrades": {
              "Gear": 1,
              "Training": 1,
+             "Item": 1,
              "Force": 1,
              "Comms": 2
            },
