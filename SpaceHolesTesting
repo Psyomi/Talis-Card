@@ -62,7 +62,7 @@
      "minis": [
        {
          "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
-         "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+         "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522238201/0244B2FBC017A483DB411F1221BA227AEF863EEE/"
        }
      ]
    },
@@ -165,7 +165,6 @@
       "upgrades": {
         "Item": 2,
         "Command": 1,
-        "Ordnance": 1,
         "Special": 1,
         "Training": 1
       },
@@ -290,7 +289,7 @@
           "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522035198/6F40AE262EF0D3C440EB3A8D0F18A9F2116CF495/",
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
-            "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522170487/C8BB1DF74106BEC70AEFB204109BFAED3AA07427"
+            "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522170487/C8BB1DF74106BEC70AEFB204109BFAED3AA07427/"
           },
           "points": 40,
           "restrictions": {
@@ -306,7 +305,7 @@
           "points": 0,
           "restrictions": {
             "include": {
-              "unit": ["Gright", "Waters"]
+              "unit": ["Gright Oakenshield", "Waters"]
             }
           }
         }
