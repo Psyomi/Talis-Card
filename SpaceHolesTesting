@@ -198,6 +198,74 @@
         }
       ]
     }
+    ]
+    },
+    "Empire": {
+      "Commander": [
+      {
+          "name": "Riven Ordo",
+          "title": "Leader of Clan Ordo",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522054297/BD77D8E863CAA1B8AD0EEB75FF59FF5BA36817BB/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 180,
+          "speed": 2,
+          "upgrades": {
+            "Item": 1,
+            "Command": 1,
+            "Armament": 3,
+            "Gear": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886396178/07FB37CA0A11552BEF96C3DCA10AF232C65AF7B6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886396372/35E5047903DC30F882B40719809ECF90DBC65A5A/"
+            }
+          ]
+        },
+        {
+          "name": "The Third Brother",
+          "title": "Member of the Imperial Inquisitorious",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522054297/BD77D8E863CAA1B8AD0EEB75FF59FF5BA36817BB/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 200,
+          "speed": 3,
+          "upgrades": {
+            "Item": 2,
+            "Command": 1,
+            "Force": 3
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925562786/E8A84B89A9397EDE6466F969084F683316C98D64/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925562981/94795F169138667E0322FE1E28F68E2B8B7F4C37/"
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Viavel Vizsla",
+          "title": "Remnant of Deathwatch",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522022220/1249AD4ECD9FC7F3FFD2ABF5AC129D463DFF42B5/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 120,
+          "speed": 2,
+          "upgrades": {
+            "Aresenal": 2,
+            "Grenades": 1,
+            "Training": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696642366438145/53BAD2A0BECE84168DD54692576AFFD8D43A9962/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696642366438391/C107A0534E3BC5211416290AD53F4EB4482E021B/"
+        }
+      ]
+    }
   ]
 }
 },
