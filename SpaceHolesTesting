@@ -141,6 +141,7 @@
          "upgrades": {
            "Personnel": 1,
            "Item": 2,
+           "Special": 2,
            "Comms": 2
          },
          "minis": [
@@ -249,13 +250,13 @@
         {
           "name": "Viavel Vizsla",
           "title": "Remnant of Deathwatch",
-          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522022220/1249AD4ECD9FC7F3FFD2ABF5AC129D463DFF42B5/",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522062359/BA0AB287A38B5EABA248A15E46E030D075115C8B/",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 120,
           "speed": 2,
           "upgrades": {
-            "Aresenal": 2,
+            "Armament": 2,
             "Grenades": 1,
             "Training": 2
           },
