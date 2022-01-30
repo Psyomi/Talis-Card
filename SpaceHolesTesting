@@ -314,6 +314,17 @@
        }
      },
      {
+      "name": "Mandalorian Vambrace Shield",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522049768/AB19818AD8B0AD5089190AB7ABF98C2ECBF354F6/",
+      "points": 20,
+      "restrictions": {
+        "include": {
+          "type": ["Mandalorian Trooper"],
+          "rank": ["Commander", "Operative"]
+        }
+      }
+    },
+     {
        "name": "Wrist Mounted Flamethrower",
        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640416270/08971192288A83DD208F4D91D02703E094090133/",
        "points": 10,
@@ -363,6 +374,56 @@
           "restrictions": {
             "include": {
               "unit": ["Republic Commando Squad"]
+            }
+          }
+        },
+        { "name": "Cryogenic Spray",
+          "displayName": "Cryogenic Spray",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522013534/BB17BE0A0D01A2E5D0F4DE1E7D8A137AD457372E/",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        },
+        { "name": "Grey Squadron (V-Wings)",
+          "displayName": "Grey Squadron (V-Wings)",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522025219/87C9CC9B33BDB80EFAE9341924B80B9BC0A71129/",
+          "points": 40,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        },
+        { "name": "Grey Squadron (X-Wings)",
+          "displayName": "Grey Squadron (X-Wings)",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522027649/BCA89E51A83DABA0D37DDDCF94F21E88FF15F954/",
+          "points": 40,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        },
+        { "name": "Homing Rockets",
+          "displayName": "Homing Rockets",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522032751/7E1C4ECE62E66627BFC6FB599253FAD57519C132/",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
+            }
+          }
+        },
+        { "name": "Lethal Ordnance",
+          "displayName": "Lethal Ordnance",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522037427/BA9A6CDDDE08FF41D17F1B5E76DB80F9390E47B5/",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["Keith Jones"]
             }
           }
         },
@@ -431,6 +492,36 @@
             }
           }
         },
+        {
+          "name": "Dark Lightning",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522015224/ADE8876C51D1257A684B9A61476192001A38DD75/",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["The Third Brother"]
+            }
+          }
+        },
+        {
+          "name": "Dual Strike",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522016932/66D5291453D65A0526D624389F11BEE68BE3B4F7/",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["The Third Brother"]
+            }
+          }
+        },
+        {
+          "name": "Garth Deaver's Lightsaber",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522027295/3FDD9541E9F0746AC514DE3CA95A8B97BCCF28E8/",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["Grey"]
+            }
+          }
+        },
            {
           "name": "Mirr's Zygerian Blaster",
           "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968517109280/3FA2ABDE28A9126C6403B062A243EB58A64D6D6D/",
@@ -438,6 +529,36 @@
           "restrictions": {
             "include": {
               "unit": ["Mirr"]
+            }
+          }
+        },
+        {
+          "name": "Mirr's Light Whip",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522051755/1DC2B4677160E5152FA7E2B83399F24BB5329935/",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["Mirr"]
+            }
+          }
+        },
+        {
+          "name": "The Blade of Hunger",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522056103/F12D2690E2523433441DC69A9872A4A1C051D0E4/",
+          "points": 40,
+          "restrictions": {
+            "include": {
+              "unit": ["Mirr"]
+            }
+          }
+        },
+        {
+          "name": "The Darksaber",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522057715/9854E69996E7C871C64EBBEC7D5616788096AAFA/",
+          "points": 20,
+          "restrictions": {
+            "include": {
+              "unit": ["Riven Ordo"]
             }
           }
         },
