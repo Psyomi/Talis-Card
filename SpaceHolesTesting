@@ -67,6 +67,25 @@
      ]
    },
    {
+    "name": "Sidias Andal",
+    "title": "Archeologist",
+    "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913073431/E60FFDF97285579A6E89EE35407C0BEB98BBEEA9/",
+    "size": "small",
+    "type": "Trooper",
+    "points": 150,
+    "speed": 2,
+    "upgrades": {
+      "Training": 2,
+      "Force": 2
+    },
+    "minis": [
+      {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/777357228030156264/12F93F60CC26F1FDC2B577D4014787B7CAFBF9A1/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/777357228030156398/F811CAE962A0BFE369544C0A96C251F5BF198B3A/"
+      }
+    ]
+  },
+   {
          "name": "Bluey",
          "title": "Dangerous Mercenary",
          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655703097279719/07E5022542483F097D1A2565E5C131DDA5C8E04F/",
@@ -86,6 +105,26 @@
            }
          ]
        },
+       {
+        "name": "Zhiril",
+        "title": "Clan Ordo Matriarch",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913078464/956450E0205B448DCB151B653A2A2BAF4BD96825/",
+        "size": "small",
+        "type": "Trooper",
+        "points": 120,
+        "speed": 3,
+        "upgrades": {
+          "Item": 1,
+          "Training": 2,
+          "Grenades": 1
+        },
+        "minis": [
+          {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886421832/BBE3592A7496E444E116271913178A8ED41F5323/"
+          }
+        ]
+      },
         {
          "name": "Mirr",
          "title": "The Blue Star Nova",
@@ -226,6 +265,26 @@
           ]
         },
         {
+          "name": "Veegor",
+          "title": "Crime Lord",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522059687/AA3A48E3FE44058D086506AC9AAC3AA05029C224/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 3,
+          "upgrades": {
+            "Item": 1,
+            "Command": 1,
+            "Training": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925562786/E8A84B89A9397EDE6466F969084F683316C98D64/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925562981/94795F169138667E0322FE1E28F68E2B8B7F4C37/"
+            }
+          ]
+        },
+        {
           "name": "The Third Brother",
           "title": "Member of the Imperial Inquisitorious",
           "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522059687/AA3A48E3FE44058D086506AC9AAC3AA05029C224/",
@@ -266,8 +325,48 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696642366438391/C107A0534E3BC5211416290AD53F4EB4482E021B/"
         }
       ]
+    },
+    {
+      "name": "Jetson",
+      "title": "ISB Agent",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913067837/4D79E91EC13BFEAAE962D3F1E56F6D1588B77A3C/",
+      "size": "small",
+      "type": "Trooper",
+      "points": 100,
+      "speed": 2,
+      "upgrades": {
+        "Gear": 1,
+        "Training": 2
+      },
+      "minis": [
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1666859827673303054/77A1D7624FA565991825B19513DBE6B70BD4F93C/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1666859827673291479/CA1D69C65D0F6FD2AE838BFFA3FD85A48CCBFB6C/"
     }
   ]
+},
+{
+  "name": "Madison Jones",
+  "title": "Ruthless Assassin",
+  "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913070132/9EC038E0DF563BF4367327B77B8FDC4095A0E416/",
+  "size": "small",
+  "type": "Trooper",
+  "points": 140,
+  "speed": 2,
+  "upgrades": {
+    "Item": 1,
+    "Training": 2,
+    "Grenades": 1,
+    "Gear": 1
+  },
+  "minis": [
+    {
+      "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173354/3483C6FB73C66481BC6CCC398BAB8E796F7EC076/",
+      "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541188141/6E23E29BB42963B94A0B7DFE01C4C49D776D9657/"
+}
+]
+}
+]
 }
 },
 "upgrades": {
@@ -322,6 +421,16 @@
         "include": {
           "type": ["Mandalorian Trooper"],
           "rank": ["Commander", "Operative"]
+        }
+      }
+    },
+    {
+      "name": "Mythosaur Gauntlets",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913081307/655849918E2D56B7A01E7BE0EB8B2E2F9E16C0E2/",
+      "points": 10,
+      "restrictions": {
+        "include": {
+          "unit": ["Riven Ordo"]
         }
       }
     },
@@ -490,6 +599,36 @@
           "restrictions": {
             "include": {
               "unit": ["Waters"]
+            }
+          }
+        },
+        {
+          "name": "Cohesive Grenade",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522012069/BE3B3AE6B2A85625775417B26D43FF7343E52D54/",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["Zhiril"]
+            }
+          }
+        },
+        {
+          "name": "Bloodstorm",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913076532/F1B4FAC7D42AAC761D41E5260F5941E2A02B3262/",
+          "points": 10,
+          "restrictions": {
+            "include": {
+              "unit": ["Veegor"]
+            }
+          }
+        },
+        {
+          "name": "Madison's Sniper",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913072111/8E95A3DD5DCEB734240CCD42F12C936A874D6693/",
+          "points": 30,
+          "restrictions": {
+            "include": {
+              "unit": ["Madison Jones"]
             }
           }
         },
