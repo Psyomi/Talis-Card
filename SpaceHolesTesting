@@ -20,7 +20,29 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925013057/F62D7D1921B435B28DDB56BD129BB39D1FB2C2FD/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324712401180346/5DD131A4135CF4C90A2D42D264F3FAB332155AB3/"
         }
-      ]
+      ],
+    "commands": [
+      {
+        "name": "Revitalise",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093107951/801402A280A2CDECFDF4E1B1534E38C856CFA2AA/",
+        "pip": 1
+      },
+      {
+        "name": "Form III, Resilience",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093110351/B1FD86AE5ABA3E1CE4D569DBADE6A4C95C98F1C6/",
+        "pip": 2
+      },
+      {
+        "name": "Rescue",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093111215/1059E75D96C9F8DC3875DE4FB6413A7BB5BF3A68/",
+        "pip": 3
+      },
+      {
+        "name": "Retribution",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093112013/620A502BEAC12FE68E754F0F023B1233B4B8145A/",
+        "pip": 4
+      }
+    ]
     }
   ],
   "Operative": [
