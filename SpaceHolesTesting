@@ -40,7 +40,7 @@
       {
         "name": "Retribution",
         "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093112013/620A502BEAC12FE68E754F0F023B1233B4B8145A/",
-        "pip": 4
+        "pip": 3
       }
     ]
     }
@@ -65,6 +65,23 @@
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886435784/9A83A99579A78DF53A23E3FFB79C07798E4F3C5C/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886427771/60D6CA1D97D822A2222E4FAF614931265B7B0AF2/"
         }
+      ],
+      "commands": [
+        {
+          "name": "For the right price",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093149161/F6E7773B19B14EFB033F11358ABED502934A09D5/",
+          "pip": 1
+        },
+        {
+          "name": "Don't get in my way",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093149983/34591514501B973300F3F59FA8E0F630E86B4591/",
+          "pip": 2
+        },
+        {
+          "name": "Rocket Strike",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093151167/760227AE59DCA4A3A103E3736E3BFBE4C352BD6A/",
+          "pip": 3
+        }
       ]
     },
     {
@@ -85,6 +102,23 @@
         {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
           "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522238201/0244B2FBC017A483DB411F1221BA227AEF863EEE/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "Reckless attack",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093154016/CF5308396E2EEB60E62769DB5276024043762E0F/",
+          "pip": 1
+        },
+        {
+          "name": "Shield burst",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093155564/8FF20D15C0DF6F8B5246CE1454585A93A1CDCA1B/",
+          "pip": 2
+        },
+        {
+          "name": "Cover me!",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093156848/0106483EAA2307843EC8B1AFE8B875600885F70E/",
+          "pip": 3
         }
       ]
     },
@@ -167,6 +201,23 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1027325137554369094/426567AD530CBB53A36B4DA286606A8028036940/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664190500251/60F46C12E0D02DE01D36B03BDF1E8ECAFD604F87/"
             }
+          ],
+          "commands": [
+            {
+              "name": "That looks bad",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093162267/B1A5684EC08B49D22217E7D41B295F59FE5C27FF/",
+              "pip": 1
+            },
+            {
+              "name": "Tactical analysis",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093163263/D2A09988292F81AB105E52A73F7533481FD9F6C7/",
+              "pip": 2
+            },
+            {
+              "name": "You know what? No",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093164404/33ABE8905D52134524B6B2A54BD0270FE52050F4/",
+              "pip": 3
+            }
           ]
         },
     {
@@ -186,6 +237,27 @@
         {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697128192156760/0799D47F8ABA442104B92441C2EE558246DD447B/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697128192156907/44D809B717035663BCC53BBF8B6C34E47F27D953/"
+        }
+      ],
+      "commands": [
+        {
+          "name": "Deadeye",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093166790/8467CDF6616A704DC58DE9EC66BB829B1E69A68F/",
+          "pip": 1
+        },
+        {
+          "name": "Something right here for you",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093167889/2463658C0334DDE85D1483BF5A6BB58F11A092B7/",
+          "pip": 2
+        },
+        {
+          "name": "Gotta jet",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093169060/E552B2EEA195D7772B44153084903F5C537F3EF8/",
+          "pip": 3
+        },
+        {
+          "name": "Move, move, move!",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093170192/A9805673D93B2EEE7A119FE141C646DA5801631C/"
         }
       ]
     }
@@ -209,6 +281,23 @@
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540540669649/C440F429AB1182944D329D0C16C3402DB731CA87/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540540669835/B4E395AA781518EAC4FBFFCB27BAA646201F411C/"
+      }
+    ],
+    "commands": [
+      {
+        "name": "Be better",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093158385/A8148B4FCDA31C48AD4C358A50103CA9CE57E637/",
+        "pip": 1
+      },
+      {
+        "name": "Recon sweep",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093159566/61439999E64B0BCDE84E1CBAE2260E7B7DB0F823/",
+        "pip": 2
+      },
+      {
+        "name": "This should help",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093160803/FF7F82358ECD3C9723779608BDA9CE43882A8F38/",
+        "pip": 3
       }
     ]
   }
@@ -303,6 +392,26 @@
               {
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697128192156760/0799D47F8ABA442104B92441C2EE558246DD447B/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697128192156907/44D809B717035663BCC53BBF8B6C34E47F27D953/"
+              }
+            ]
+          },
+          {
+            "name": "Ez",
+            "title": "Acolyte of Betrayal",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093136411/07066B154826AA8C8EF8638080762458500A2C3A/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 220,
+            "speed": 1,
+            "upgrades": {
+              "Force": 3,
+              "Command": 1,
+              "Personnel": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1022824153235918382/C6629B635DB0B3D04D345B83AE6A0DA0EF4CDDBC/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824153235918510/4CE73F1347AA53974D94CADE1B77D9875694299C/"
               }
             ]
           },
@@ -480,6 +589,19 @@
                   "unit": ["Keith Jones"]
                 }
               }
+            },
+            { "name": "Stone Soldier",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093250922/75D1ACC9C9E1D21BF81F55DE852455631DE372C7/",
+              "mini": {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696515362210843/CDD5E72C8CE5B42739060E6ADC81DC64751294F0/",
+                "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093308729/AF393C5336B5EE7E68E873F66F4CA3C792B51BB6/"
+              },
+              "points": 0,
+              "restrictions": {
+                "include": {
+                  "unit": ["Ez"]
+                }
+              }
             }
         ],
         "Special": [
@@ -590,6 +712,66 @@
             "restrictions": {
               "include": {
                 "unit": ["Mirr"]
+              }
+            }
+          },
+          {
+            "name": "Sever Force",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093270285/5834149B7C66F6CE8208DE57729DEB9DFBD211EA/",
+            "points": 20,
+            "restrictions": {
+              "include": {
+                "unit": ["Ez"]
+              }
+            }
+          },
+          {
+            "name": "Saber Storm",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093268629/92346ABE095EE4189B031F01A6D06D2D7E0261ED/",
+            "points": 20,
+            "restrictions": {
+              "include": {
+                "unit": ["Ez"]
+              }
+            }
+          },
+          {
+            "name": "Reconstitution",
+            "image": "hhttps://steamuserimages-a.akamaihd.net/ugc/1831278839093264319/41913CB3AD986C1691DA8D79787A61174406C258/",
+            "points": 30,
+            "restrictions": {
+              "include": {
+                "unit": ["Ez"]
+              }
+            }
+          },
+          {
+            "name": "Reconstitution",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093263096/D1705658115D38C3CF5BDFA545358ECF2D4639F9/",
+            "points": 20,
+            "restrictions": {
+              "include": {
+                "unit": ["Ez"]
+              }
+            }
+          },
+          {
+            "name": "Immobilising Grip",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093259250/24F98A9CC95F36300E1C682DF55C74B65526E128/",
+            "points": 30,
+            "restrictions": {
+              "include": {
+                "unit": ["Ez"]
+              }
+            }
+          },
+          {
+            "name": "Mental Barrage",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093261508/0E1AAFA53494B96E10C8B7737C258E6F130C3DFA/",
+            "points": 20,
+            "restrictions": {
+              "include": {
+                "unit": ["Ez"]
               }
             }
           },
