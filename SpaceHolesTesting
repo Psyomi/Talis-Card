@@ -737,7 +737,7 @@
           },
           {
             "name": "Reconstitution",
-            "image": "hhttps://steamuserimages-a.akamaihd.net/ugc/1831278839093264319/41913CB3AD986C1691DA8D79787A61174406C258/",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093264319/41913CB3AD986C1691DA8D79787A61174406C258/",
             "points": 30,
             "restrictions": {
               "include": {
@@ -746,7 +746,7 @@
             }
           },
           {
-            "name": "Reconstitution",
+            "name": "Mental Cloak",
             "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093263096/D1705658115D38C3CF5BDFA545358ECF2D4639F9/",
             "points": 20,
             "restrictions": {
