@@ -620,10 +620,16 @@
           },
           { "name": "Stone Soldier",
             "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093250922/75D1ACC9C9E1D21BF81F55DE852455631DE372C7/",
-            "mini": {
+            "mini": [
+              {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696515362210843/CDD5E72C8CE5B42739060E6ADC81DC64751294F0/",
               "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093308729/AF393C5336B5EE7E68E873F66F4CA3C792B51BB6/"
             },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696515362210843/CDD5E72C8CE5B42739060E6ADC81DC64751294F0/",
+              "diffuse": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093308729/AF393C5336B5EE7E68E873F66F4CA3C792B51BB6/"
+            }
+          ],
             "points": 0,
             "restrictions": {
               "include": {
