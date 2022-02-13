@@ -171,7 +171,8 @@
         "speed": 3,
         "upgrades": {
           "Item": 1,
-          "Training": 2,
+          "Training": 1,
+          "Armament": 2,
           "Grenades": 1
         },
         "minis": [
