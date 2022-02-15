@@ -924,8 +924,7 @@
           "points": 20,
           "restrictions": {
             "include": {
-              "unit": ["The Third Brother"],
-              "unit": ["Second Sister"]
+              "unit": ["The Third Brother", "Second Sister"]
             }
           }
         },
