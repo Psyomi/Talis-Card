@@ -258,12 +258,11 @@
       },
       {
         "name": "Move, move, move!",
-        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093170192/A9805673D93B2EEE7A119FE141C646DA5801631C/"
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1831278839093170192/A9805673D93B2EEE7A119FE141C646DA5801631C/",
+        "pip": 3
       }
     ]
-  }
-],
-"Support": [
+  },
   {
     "name": "Keith Jones",
         "title": "Ace Pilot",
@@ -302,6 +301,8 @@
     }
   ]
 }
+],
+"Support": [
 ]
 },
 "Republic": {
@@ -417,6 +418,48 @@
           ]
         },
         {
+          "name": "Second Sister",
+          "title": "Member of the Imperial Inquisitorious",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364653722880/D5D3D4D77FE38885C29262D37C4605E5D28AF157",
+          "size": "small",
+          "type": "Trooper",
+          "points": 180,
+          "speed": 2,
+          "upgrades": {
+            "Item": 2,
+            "Command": 1,
+            "Force": 3
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1831279364639533152/4C86BEF3CE614BFFBAEA6CA66D6E3161D132732C/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1831279364639533780/668B9F8F75E1E2CB011B25E97EC9A69F4DA29F4B/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Weak Technique",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364653713375/D9297D2B6855971F71F161EF05D580A5AA5CE88C/",
+              "pip": 1
+            },
+            {
+              "name": "You think you are safe in there",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364653714500/390C9186FBBFFF7031CA9D438E66374083391C16/",
+              "pip": 2
+            },
+            {
+              "name": "Oustanding",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364653715614/433BE01C46D2E8B8E38EAA81F6A4F06443788D64/",
+              "pip": 3
+            },
+            {
+              "name": "Summary execution",
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364653716617/0AE49EF5FF3997D838307CBC20355FEEF191E122/",
+              "pip": 3
+            }
+          ]
+        },
+        {
           "name": "The Third Brother",
           "title": "Member of the Imperial Inquisitorious",
           "image": "https://steamuserimages-a.akamaihd.net/ugc/1834655968522059687/AA3A48E3FE44058D086506AC9AAC3AA05029C224/",
@@ -453,7 +496,8 @@
             },
             {
               "name": "There is no escape",
-              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364639149100/E96CCFAB9766315FCE57AEC4885DF4B2EDF8E1BA/"
+              "image": "https://steamuserimages-a.akamaihd.net/ugc/1831279364639149100/E96CCFAB9766315FCE57AEC4885DF4B2EDF8E1BA/",
+              "pip":3
             }
           ]
         }
@@ -880,7 +924,8 @@
           "points": 20,
           "restrictions": {
             "include": {
-              "unit": ["The Third Brother"]
+              "unit": ["The Third Brother"],
+              "unit": ["Second Sister"]
             }
           }
         },
