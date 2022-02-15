@@ -426,7 +426,7 @@
           "points": 180,
           "speed": 2,
           "upgrades": {
-            "Item": 2,
+            "Item": 1,
             "Command": 1,
             "Force": 3
           },
