@@ -182,38 +182,6 @@
           }
         ]
       },
-      {
-        "name": "Rebel Shock Troopers",
-        "image": "https://steamuserimages-a.akamaihd.net/ugc/1838036214479475150/B9794090204F3DEFA9149FF34C33D287F6CFBAC9/",
-        "size": "small",
-        "type": "Trooper",
-        "points": 72,
-        "speed": 2,
-        "upgrades": {
-          "Personnel": 1,
-          "Grenades": 1,
-          "Gear": 1,
-          "Heavy Weapon": 1
-        },
-        "minis": [
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173156/D637683F992DD0C4488252BE266EEEA1F26006B0/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541172655/B10522A40482843AF69A3F321BD091B0ECF52C6B/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541172497/B3E1593143504101920CC6419BE7C2EAEF52993F/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541188141/6E23E29BB42963B94A0B7DFE01C4C49D776D9657/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173253/155BAA01BA51A8EB524DD434A3C512D8C0B3A04B/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541172655/B10522A40482843AF69A3F321BD091B0ECF52C6B/"
-          },
-          {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173354/3483C6FB73C66481BC6CCC398BAB8E796F7EC076/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541188141/6E23E29BB42963B94A0B7DFE01C4C49D776D9657/"
-          }
-        ]
-      },
         {
         "name": "Mirr",
         "title": "The Blue Star Nova",
@@ -334,7 +302,39 @@
   ]
 }
 ],
-"Support": [
+"Special Forces": [
+  {
+    "name": "Rebel Shock Troopers",
+    "image": "https://steamuserimages-a.akamaihd.net/ugc/1838036214479475150/B9794090204F3DEFA9149FF34C33D287F6CFBAC9/",
+    "size": "small",
+    "type": "Trooper",
+    "points": 72,
+    "speed": 2,
+    "upgrades": {
+      "Personnel": 1,
+      "Grenades": 1,
+      "Gear": 1,
+      "Heavy Weapon": 1
+    },
+    "minis": [
+      {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173156/D637683F992DD0C4488252BE266EEEA1F26006B0/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541172655/B10522A40482843AF69A3F321BD091B0ECF52C6B/"
+      },
+      {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541172497/B3E1593143504101920CC6419BE7C2EAEF52993F/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541188141/6E23E29BB42963B94A0B7DFE01C4C49D776D9657/"
+      },
+      {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173253/155BAA01BA51A8EB524DD434A3C512D8C0B3A04B/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541172655/B10522A40482843AF69A3F321BD091B0ECF52C6B/"
+      },
+      {
+        "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541173354/3483C6FB73C66481BC6CCC398BAB8E796F7EC076/",
+        "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541188141/6E23E29BB42963B94A0B7DFE01C4C49D776D9657/"
+      }
+    ]
+  },
 ]
 },
 "Republic": {
@@ -391,9 +391,9 @@
       "points": 76,
       "speed": 2,
       "upgrades": {
-        "Training": 1,
-        "Grenade": 1,
-        "Personnel": 1
+        "Training": 2,
+        "Gear": 1,
+        "Heavy Weapon": 1
       },
       "minis": [
         {
@@ -522,7 +522,7 @@
         {
           "name": "Natasi Daala",
           "title": "Admiral of the Imperial Remnant",
-          "image": "https://steamuserimages-a.akamaihd.net/ugc/1834656103913074807/C5369BD2AF2E1225E6BC2F44975A88A41435ABD3/",
+          "image": "https://steamuserimages-a.akamaihd.net/ugc/1838036214479442594/B2583B02E60059FA2124F38120C52011663EF312/",
           "size": "small",
           "type": "Trooper",
           "points": 100,
@@ -763,34 +763,36 @@
       "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541188141/6E23E29BB42963B94A0B7DFE01C4C49D776D9657/"
 }
 ]
-},
-{
-  "name": "Purge Troopers",
-  "image": "https://steamuserimages-a.akamaihd.net/ugc/1838036214479465729/7F8ACFB31C8EA022AAD84D8D1C25781FB00C6B9F/",
-  "size": "small",
-  "type": "trooper",
-  "points": 76,
-  "speed": 2,
-  "upgrades": {
-    "Training": 2,
-    "Gear": 1,
-    "Heavy Weapon": 1
-  },
-  "minis": [
-    {
-        "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885319465/2474308EBBDD92BDF8D331691E4F47EB4E1D9D7B/",
-        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884994960/C45BA65336571270F7ABFDB147D8696B7D93138D/"
-      },
-      {
-        "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885051525/BE73F7CADC7D35B297FE86A2C7C13532B33BED20/",
-        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884994960/C45BA65336571270F7ABFDB147D8696B7D93138D/"
-      },
-      {
-        "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885219099/28222F723E524C776ADFD8BF4072B274D5DD6513/",
-        "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884994960/C45BA65336571270F7ABFDB147D8696B7D93138D/"
-      }
-  ]
 }
+],
+"Special Forces":[
+  {
+    "name": "Purge Troopers",
+    "image": "https://steamuserimages-a.akamaihd.net/ugc/1838036214479465729/7F8ACFB31C8EA022AAD84D8D1C25781FB00C6B9F/",
+    "size": "small",
+    "type": "trooper",
+    "points": 76,
+    "speed": 2,
+    "upgrades": {
+      "Training": 2,
+      "Gear": 1,
+      "Heavy Weapon": 1
+    },
+    "minis": [
+      {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885319465/2474308EBBDD92BDF8D331691E4F47EB4E1D9D7B/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884994960/C45BA65336571270F7ABFDB147D8696B7D93138D/"
+        },
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885051525/BE73F7CADC7D35B297FE86A2C7C13532B33BED20/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884994960/C45BA65336571270F7ABFDB147D8696B7D93138D/"
+        },
+        {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885219099/28222F723E524C776ADFD8BF4072B274D5DD6513/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1007061608884994960/C45BA65336571270F7ABFDB147D8696B7D93138D/"
+        }
+    ]
+  }
 ],
 "Corps": [
   {
